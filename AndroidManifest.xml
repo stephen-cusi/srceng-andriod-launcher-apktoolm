@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:installLocation="auto"
+    package="com.valvesoftware.source"
+    platformBuildVersionCode="29"
+    platformBuildVersionName="10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 允许该应用创建网络套接字和使用自定义网络协议。浏览器和其他某些应用提供了向互联网发送数据的途径，因此应用无需该权限即可向互联网发送数据。 -->
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+    <!-- 允许该应用阻止手机进入休眠状态。 -->
+    <uses-permission
+        android:name="android.permission.WAKE_LOCK" />
+    <!-- 允许应用查看网络连接的相关信息，例如存在和连接的网络。 -->
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许应用程序查看有关 WLAN 状态的信息。 -->
+    <uses-permission
+        android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 允许应用写入 SD 卡。 -->
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许应用使用麦克风录制音频。此权限可让该应用不经您的确认即可随时录制音频。 -->
+    <uses-permission
+        android:name="android.permission.RECORD_AUDIO" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:glEsVersion="0x20000" />
+    <application
+        android:label="@string/srceng_app_name"
+        android:icon="@drawable/ic_launcher"
+        android:debuggable="true"
+        android:allowAudioPlaybackCapture="true"
+        android:requestLegacyExternalStorage="true">
+        <activity
+            android:label="@string/srceng_app_name"
+            android:name="me.nillerusr.LauncherActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="Directory"
+            android:name="me.nillerusr.DirchActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.DIRCH" />
+                <category
+                    android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="@string/srceng_app_name"
+            android:name="org.libsdl.app.SDLActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="sensorLandscape"
+            android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode">
+            <intent-filter>
+                <action
+                    android:name="org.libsdl.app.SDLACTIVITY" />
+                <category
+                    android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name="me.nillerusr.UpdateService"
+            android:stopWithTask="false" />
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="9999.0" />
+        <meta-data
+            android:name="android.allow_multiple_resumed_activities"
+            android:value="true" />
+    </application>
+</manifest>

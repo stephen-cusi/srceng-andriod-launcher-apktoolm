@@ -1,0 +1,237 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/LiberationMono-Regular.ttf
+SHA1-Digest: o4ZwGuSsPV2vwZuc8mxoRzjvous=
+
+Name: lib/arm64-v8a/liblauncher.so
+SHA1-Digest: f5oO5w1tdUiZrJ089wAte30h2ik=
+
+Name: lib/arm64-v8a/libstdshader_dx9.so
+SHA1-Digest: 6QfUNdwSze75Ajg1qcAhG8zm2LI=
+
+Name: lib/arm64-v8a/libvphysics.so
+SHA1-Digest: R/uAwqIb5ynwklTm/7TE+a55+9o=
+
+Name: lib/armeabi-v7a/libServerBrowser.so
+SHA1-Digest: syQiElB8CiexMoabArXfMRFNH5k=
+
+Name: lib/armeabi-v7a/libGameUI.so
+SHA1-Digest: FgMfNZBIkDUH7g3ujCD5I+FA1C4=
+
+Name: lib/arm64-v8a/libclient.so
+SHA1-Digest: n5yj9XyIz6vgq9q3GvOe/qOyss0=
+
+Name: lib/arm64-v8a/libvideo_services.so
+SHA1-Digest: QpB7MdoeKPwUcwl62HusfteeKwM=
+
+Name: lib/arm64-v8a/libfilesystem_stdio.so
+SHA1-Digest: kNocZZ/rgwvBOK1tqaFAhY/g2CM=
+
+Name: lib/armeabi-v7a/libserver.so
+SHA1-Digest: cKBk9yEyjsF0U0Kb4MtayrLvzUM=
+
+Name: lib/arm64-v8a/libServerBrowser.so
+SHA1-Digest: OTUJ7ueK6R/2IrHunbpHbw453BA=
+
+Name: lib/armeabi-v7a/libvgui2.so
+SHA1-Digest: GULv/Psr4uzw0dHTePxZGXMuS0M=
+
+Name: lib/arm64-v8a/libshaderapidx9.so
+SHA1-Digest: qQYzoYahj7oxFt64mrLimikDCEw=
+
+Name: lib/armeabi-v7a/libvideo_services.so
+SHA1-Digest: cvkDRaSRS+E2+l2fQpzBSM/mQqg=
+
+Name: lib/arm64-v8a/libinputsystem.so
+SHA1-Digest: blC6lpo2h7xurJvD65Ucbnzi1FY=
+
+Name: lib/arm64-v8a/libmaterialsystem.so
+SHA1-Digest: 2w1naeGYFs5sX0EEbiGWqCl5vCc=
+
+Name: res/layout/update_notify.xml
+SHA1-Digest: 6G3+6H2szDf6F76vuySc++go6lo=
+
+Name: lib/armeabi-v7a/libstudiorender.so
+SHA1-Digest: iTdtBNVqDvD4W2+2EofzsnuNfMQ=
+
+Name: lib/armeabi-v7a/liblauncher.so
+SHA1-Digest: MwSaMlUfA35oF3pcvEkf5yhEUIc=
+
+Name: assets/Itim-Regular.otf
+SHA1-Digest: fn4SOaXzOaRTpacW9EhnWmWtcL0=
+
+Name: lib/armeabi-v7a/libtogl.so
+SHA1-Digest: +5QXAqQ6q6MnwSxeklOqqGKtqmM=
+
+Name: res/layout-v21/activity_launcher.xml
+SHA1-Digest: /qIp+uvCtSno924G+uE6rwy0UNM=
+
+Name: res/layout/directory.xml
+SHA1-Digest: uuSxc4xQSyquLz1okA9mNLJEvUw=
+
+Name: lib/arm64-v8a/libdatacache.so
+SHA1-Digest: qS11hfdACOzj1mYar0IZI1Jz6YE=
+
+Name: assets/dejavusans-boldoblique.ttf
+SHA1-Digest: JttNXTGzw+/cOGJKrlRgibUPZoQ=
+
+Name: org/libsdl/app/SDLActivity.java.save
+SHA1-Digest: yebzJp1sjcUimmOg7D4ELLYSuqI=
+
+Name: assets/extras_dir.vpk
+SHA1-Digest: qSlruVdiONP3hobsuXX8GbcnxyY=
+
+Name: res/layout/spinner_item_v8.xml
+SHA1-Digest: +1jSQY1tOJz5kPCnoityBc22X10=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: yTu+y8wUR/0xgG67nS/nNg4fhfo=
+
+Name: res/drawable/folder.png
+SHA1-Digest: 3UAHlBBlEdcYq9C3XemwQcSnZUY=
+
+Name: lib/armeabi-v7a/libdatacache.so
+SHA1-Digest: bc1LxflKPE7q8xkyphUsDv4L5nA=
+
+Name: lib/armeabi-v7a/libSDL2.so
+SHA1-Digest: 4yg2PaRlcd50Ci5oC3AaRXJq6gI=
+
+Name: lib/armeabi-v7a/libvaudio_minimp3.so
+SHA1-Digest: 4xfGRehvOqIXLExvg+ACrYbU3Es=
+
+Name: lib/arm64-v8a/libvaudio_opus.so
+SHA1-Digest: +EB0YWkVZeQ7yjxQ349GKsHPauE=
+
+Name: lib/armeabi-v7a/libvguimatsurface.so
+SHA1-Digest: 5k5y5jQ9w1Fk8lSgkOmxgLSBI5Q=
+
+Name: lib/armeabi-v7a/libvtex_dll.so
+SHA1-Digest: ETR0C7qyU7s9Nno7c1oKfCcT+eg=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: fWDkLktXcsbGK3YzyvfhJWXXm9s=
+
+Name: lib/armeabi-v7a/libshaderapidx9.so
+SHA1-Digest: iZYXApWrwn4SDynvwvih+5hIk1M=
+
+Name: lib/arm64-v8a/libvtex_dll.so
+SHA1-Digest: kx0tq7unHPcyTuiR7F5TnnZo0pk=
+
+Name: lib/arm64-v8a/libGameUI.so
+SHA1-Digest: 5o5bJDvmj95ntOnDjCIZ6rdCGXA=
+
+Name: lib/arm64-v8a/libserver.so
+SHA1-Digest: sRcSk+La+XSR5/FdaEbb4ljPBSE=
+
+Name: res/layout/activity_launcher.xml
+SHA1-Digest: FWkxLde5fdcld8I5sVdCwqiG5Rk=
+
+Name: lib/armeabi-v7a/libtier0.so
+SHA1-Digest: c5xgWn0g/x7VKNTYHF3iU+kHZ2M=
+
+Name: resources.arsc
+SHA1-Digest: S2SLLsDST43jAhvDbUwTRvADRwM=
+
+Name: lib/armeabi-v7a/libengine.so
+SHA1-Digest: 3izMbPLcW9ufJqfLzp4N8BdQXlU=
+
+Name: assets/dejavusans-oblique.ttf
+SHA1-Digest: WOkuhvxjI5W7Q/j68mF/Pt6qwn8=
+
+Name: lib/arm64-v8a/libtogl.so
+SHA1-Digest: P0ufSmZU68HDJEveZvR6yfx8x6s=
+
+Name: lib/arm64-v8a/libvgui2.so
+SHA1-Digest: B0FmkL3EFnlH48v5aQRwyRPibag=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XtInQI4WjCWF7aYTRKmseskC+2U=
+
+Name: lib/armeabi-v7a/libvaudio_opus.so
+SHA1-Digest: TjK4gNi6b3fakJntgMm8P9b7was=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: hTPXQxIFW239116hqW54ALgHkv0=
+
+Name: lib/armeabi-v7a/libclient.so
+SHA1-Digest: /xE7UofAUvtsS53qUDNDBt7aIbo=
+
+Name: lib/arm64-v8a/libstudiorender.so
+SHA1-Digest: gYadeLJKDGdWWL3837JKJM49354=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: HJ8G9Q3uoNVfCnaWx18C74kpQhI=
+
+Name: lib/armeabi-v7a/libsteam_api.so
+SHA1-Digest: l9sXZqvpEMyoXAkawMVZgHcClbs=
+
+Name: lib/arm64-v8a/libscenefilecache.so
+SHA1-Digest: MYK8EVe0eAi0FNG/2XrOQsjWY8Y=
+
+Name: lib/arm64-v8a/libsteam_api.so
+SHA1-Digest: BF1SfcnxtVsgTwM4Y72SSyy7lBI=
+
+Name: lib/arm64-v8a/libvaudio_minimp3.so
+SHA1-Digest: 0booVz4NpIzVLG550ZlUpjcTIR8=
+
+Name: lib/arm64-v8a/libSDL2.so
+SHA1-Digest: 9iyMLV2QLljNDESSR2J+i7HDIhc=
+
+Name: lib/arm64-v8a/libsoundemittersystem.so
+SHA1-Digest: KvEMxtpE1wyGxSWLHZlA/z/Dp2k=
+
+Name: lib/armeabi-v7a/libvstdlib.so
+SHA1-Digest: 4yi6W+FKcV2RxYFiUp3RDJiq4Cs=
+
+Name: assets/DroidSansFallback.ttf
+SHA1-Digest: ZN4v3nWGirjUxnFK3QjI8Is/rh4=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: jZfm7YaF5Yr8hp2fKoV5Y1giPgM=
+
+Name: res/layout/activity_directory_choice.xml
+SHA1-Digest: Kedom/DH8bRuqTc9aqp9Dptb5ho=
+
+Name: lib/arm64-v8a/libvstdlib.so
+SHA1-Digest: rPmR6yWdZfxmc43T39iNLbLnLP0=
+
+Name: lib/armeabi-v7a/libscenefilecache.so
+SHA1-Digest: kDPGjesvG5/sebl4eXb6HqMIdmI=
+
+Name: lib/armeabi-v7a/libfilesystem_stdio.so
+SHA1-Digest: nD8ELNzcP9BIQ1Q5Dml23f4P/sI=
+
+Name: lib/armeabi-v7a/libinputsystem.so
+SHA1-Digest: 0mOBRHHn24zaBVUo192YD470oYk=
+
+Name: lib/armeabi-v7a/libsoundemittersystem.so
+SHA1-Digest: 1hgctg+gV3ypgJCIJPvqF0K+jww=
+
+Name: lib/arm64-v8a/libvguimatsurface.so
+SHA1-Digest: FycQSYbvz87tTDiHspyfoEfrs2s=
+
+Name: lib/armeabi-v7a/libmaterialsystem.so
+SHA1-Digest: Nd0j5Sj/6EpI6EYI+fD7GV4rNZ4=
+
+Name: lib/armeabi-v7a/libvphysics.so
+SHA1-Digest: QN1XhVcw1NV+84w8Rgy9GWD6byI=
+
+Name: assets/dejavusans-bold.ttf
+SHA1-Digest: dM9orA1WAM34ID5HtBx8hY03YUQ=
+
+Name: assets/dejavusans.ttf
+SHA1-Digest: e+mqY0tdHQSUbs3qgHVmlsrfKbw=
+
+Name: lib/armeabi-v7a/libstdshader_dx9.so
+SHA1-Digest: 03aEQ7WrULds7tasXj9riWqqU2U=
+
+Name: lib/arm64-v8a/libtier0.so
+SHA1-Digest: I/rAJe/6GZBiLx6WnLhYd6d8nz0=
+
+Name: classes.dex
+SHA1-Digest: 3jYHEk6AsoR6iqfBSAljV96tzAY=
+
+Name: lib/arm64-v8a/libengine.so
+SHA1-Digest: +SxykJ+cGBDAbUgzUQOIxNS+f2c=
+

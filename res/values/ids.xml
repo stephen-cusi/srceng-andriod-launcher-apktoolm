@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="header_ch">false</item>
+    <item type="id" name="header_txt">false</item>
+    <item type="id" name="footer2">false</item>
+    <item type="id" name="button_choice">false</item>
+    <item type="id" name="bodych">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="header_text">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_about">false</item>
+    <item type="id" name="button_launch">false</item>
+    <item type="id" name="center">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="edit_cmdline">false</item>
+    <item type="id" name="edit_env">false</item>
+    <item type="id" name="edit_gamepath">false</item>
+    <item type="id" name="button_gamedir">false</item>
+    <item type="id" name="dirname">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="text">false</item>
+</resources>

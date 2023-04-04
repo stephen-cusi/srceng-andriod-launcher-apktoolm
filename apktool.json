@@ -1,0 +1,29 @@
+{
+  "apkFileName": "source-engine-v1.16.0029_src.apk",
+  "VersionInfo": {
+    "versionName": "1.16.29",
+    "versionCode": "1"
+  },
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "targetSdkVersion": "24",
+    "minSdkVersion": "17"
+  },
+  "sparseResources": true,
+  "version": "2.4.0-230404",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {"org/libsdl/app/SDLActivity.java.save": "8"},
+  "isFrameworkApk": false,
+  "doNotCompress": [
+    "resources.arsc",
+    "png"
+  ],
+  "compressionType": false
+}
